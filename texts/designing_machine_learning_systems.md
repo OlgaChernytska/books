@@ -39,3 +39,5 @@ P.P.S. Залишаю посилання на своїх поглиблені т
 [Building Better ML Systems — Chapter 3: Modeling. Let the Fun Begin](https://towardsdatascience.com/building-better-ml-systems-chapter-3-modeling-let-the-fun-begin-73059c75e1d5)
 
 [Building Better ML Systems — Chapter 4. Model Deployment and Beyond](https://towardsdatascience.com/building-better-ml-systems-chapter-4-model-deployment-and-beyond-eae3a75496ec)
+
+29.09.2023
