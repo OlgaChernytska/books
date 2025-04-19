@@ -109,9 +109,6 @@
 ### Про щастя
 
 <p>
-  <a href="./texts/the_four_agreements.md">
-    <img src="./images/the_four_agreements.jpg" height="150">
-  </a>
   <a href="./texts/the_gifts_of_imperfection.md">
     <img src="./images/the_gifts_of_imperfection.jpg" height="150">
   </a>
