@@ -1,6 +1,6 @@
 # Що я читаю
 
-Картинки клікабельні :) Під кожною картинкою - мої думки про цю книгу.
+Картинки клікабельні. За кожною картинкою - мій відгук на цю книгу.
 
 ### Про гроші, інвестиції і фінансову свободу
 
@@ -34,3 +34,31 @@
   </a>
 </p>
 
+### Про підприємництво
+
+<p>
+  <a href="./texts/the_millionaire_fastlane.md">
+    <img src="./images/the_millionaire_fastlane.jpg" height="150">
+  </a>
+  <a href="./texts/the_4_hour_work_week.md">
+    <img src="./images/the_4_hour_work_week.jpg" height="150">
+  </a>
+  <a href="./texts/inspired.md">
+    <img src="./images/inspired.jpg" height="150">
+  </a>
+  <a href="./texts/ultimate_course_formula.md">
+    <img src="./images/ultimate_course_formula.jpg" height="150">
+  </a>
+  <a href="./texts/the_workshop_survival_guide.md">
+    <img src="./images/the_workshop_survival_guide.jpg" height="150">
+  </a>
+  <a href="./texts/zero_to_one.md">
+    <img src="./images/zero_to_one.jpg" height="150">
+  </a>
+  <a href="./texts/think_and_grow_rich.md">
+    <img src="./images/think_and_grow_rich.jpg" height="150">
+  </a>
+  <a href="./texts/tribes.md">
+    <img src="./images/tribes.jpg" height="150">
+  </a>
+</p>
