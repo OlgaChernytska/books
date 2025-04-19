@@ -58,9 +58,6 @@
   <a href="./texts/zero_to_one.md">
     <img src="./images/zero_to_one.jpg" height="150">
   </a>
-  <a href="./texts/think_and_grow_rich.md">
-    <img src="./images/think_and_grow_rich.jpg" height="150">
-  </a>
   <a href="./texts/tribes.md">
     <img src="./images/tribes.jpg" height="150">
   </a>
@@ -77,6 +74,9 @@
   </a>
   <a href="./texts/the_7_habits_of_highly_effective_people.md">
     <img src="./images/the_7_habits_of_highly_effective_people.jpg" height="150">
+  </a>
+  <a href="./texts/think_and_grow_rich.md">
+    <img src="./images/think_and_grow_rich.jpg" height="150">
   </a>
   <a href="./texts/how_will_you_measure_your_life.md">
     <img src="./images/how_will_you_measure_your_life.jpg" height="150">
