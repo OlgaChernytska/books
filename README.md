@@ -23,6 +23,9 @@
   <a href="./texts/the_behavior_gap.md">
     <img src="./images/the_behavior_gap.jpg" height="150">
   </a>
+  <a href="./texts/thinking_fast_and_slow.md">
+    <img src="./images/thinking_fast_and_slow.jpg" height="150">
+  </a>
   <a href="./texts/exchange_traded_funds_for_dummies.md">
     <img src="./images/exchange_traded_funds_for_dummies.jpg" height="150">
   </a>
@@ -60,5 +63,75 @@
   </a>
   <a href="./texts/tribes.md">
     <img src="./images/tribes.jpg" height="150">
+  </a>
+</p>
+
+### Про мислення
+
+<p>
+  <a href="./texts/the_magic_of_thinking_big.md">
+    <img src="./images/the_magic_of_thinking_big.jpg" height="150">
+  </a>
+  <a href="./texts/the_miracle_morning.md">
+    <img src="./images/the_miracle_morning.jpg" height="150">
+  </a>
+  <a href="./texts/the_7_habits_of_highly_effective_people.md">
+    <img src="./images/the_7_habits_of_highly_effective_people.jpg" height="150">
+  </a>
+  <a href="./texts/how_will_you_measure_your_life.md">
+    <img src="./images/how_will_you_measure_your_life.jpg" height="150">
+  </a>
+  <a href="./texts/make_your_bed.md">
+    <img src="./images/make_your_bed.jpg" height="150">
+  </a>
+</p>
+
+### Про карʼєру і пошуки себе
+
+<p>
+  <a href="./texts/engineers_survival_guide.md">
+    <img src="./images/engineers_survival_guide.jpg" height="150">
+  </a>
+  <a href="./texts/range.md">
+    <img src="./images/range.jpg" height="150">
+  </a>
+  <a href="./texts/what_color_is_your_parachute.md">
+    <img src="./images/what_color_is_your_parachute.jpg" height="150">
+  </a>
+  <a href="./texts/kariera_bez_dram_i_travm.md">
+    <img src="./images/kariera_bez_dram_i_travm.jpg" height="150">
+  </a>
+  <a href="./texts/the_element.md">
+    <img src="./images/the_element.jpg" height="150">
+  </a>
+</p>
+
+### Про щастя
+
+<p>
+  <a href="./texts/the_four_agreements.md">
+    <img src="./images/the_four_agreements.jpg" height="150">
+  </a>
+  <a href="./texts/the_gifts_of_imperfection.md">
+    <img src="./images/the_gifts_of_imperfection.jpg" height="150">
+  </a>
+  <a href="./texts/the_cafe_on_the_edge_of_the_world.md">
+    <img src="./images/the_cafe_on_the_edge_of_the_world.jpg" height="150">
+  </a>
+</p>
+
+### Про штучний інтелект
+
+<p>
+  <a href="./texts/designing_machine_learning_systems.md">
+    <img src="./images/designing_machine_learning_systems.jpg" height="150">
+  </a>
+</p>
+
+### Біографії
+
+<p>
+  <a href="./texts/becoming.md">
+    <img src="./images/becoming.jpg" height="150">
   </a>
 </p>
